@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis Vazquez Lara A.K.A: VL</h1>
-<h3 align="center">Me gustaría desempeñarme como analista de datos y aplicar machine learning a variables macroeconómicas, me interesan los temas de desigualdad económica y blockchain, utilizo el pensamiento critico en mis análisis, mi curiosidad y creatividad me motivan a estar al tanto de las nuevas tecnologías. Actualmente estudio para ser desarrollador full stack en el programa LAUNCH X de Microsoft. Autodidacta, si no lo sé, lo aprendo.</h3>
+<h1 align="center">Hi 👋, I'm Luis Vazquez Lara</h1>
+<h3 align="center">Tras una sólida formación en Economía, decidí adentrarme en el mundo de la
+tecnología, especializándome en servicios de la nube. Mi experiencia cloud me permite
+diseñar soluciones eficientes y rentables que impulsan el crecimiento de las empresas.</h3>
 
-<p align="left"> <a href="https://twitter.com/mayakovsk_i_" target="blank"><img src="https://img.shields.io/twitter/follow/mayakovsk_i_?logo=twitter&style=for-the-badge" alt="mayakovsk_i_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mayakovsk_i_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayakovsk_i_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/therealvl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-%c3%a1ngel-v%c3%a1zquez-lara-092a76226/" height="30" width="40" /></a>
 </p>
 
